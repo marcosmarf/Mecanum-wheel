@@ -13,3 +13,5 @@
 - Breadboard
 - Caja de 6 pilas de tipo AA
 - Cables para la conexión
+
+![Dirección de la ruedas](https://github.com/marcosmarf/Mecanum-wheel/blob/master/mecanum.jpg)
